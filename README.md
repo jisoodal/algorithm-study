@@ -1,6 +1,6 @@
 # algorithm-study
-백준 알고리즘 공부 (https://www.acmicpc.net/step)
-- 1차원 배열부터 동적 계획법 최적화까지
+Leet Code 공부 (https://leetcode.com/problemset/all/)
+- 1. Two Sum부터 Maximum Genetic Difference Query까지
 
-[2021/07/13]
-- 1차원 배열 (최소,최대)
+[2021/07/19]
+Two Sum 커밋

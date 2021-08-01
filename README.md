@@ -7,3 +7,6 @@ Two Sum 커밋
 
 [2021/07/20]
 Reverse Integer 커밋
+
+[2021/08/02]
+Palindrome Number 커밋

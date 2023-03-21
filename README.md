@@ -16,3 +16,6 @@ Ex13 - Roman to Integer 커밋
 
 [2023/03/20]
 Ex14 - Longest Common Prefix 커밋
+
+[2023/03/21]
+Ex20 - Valid Parentheses 커밋
